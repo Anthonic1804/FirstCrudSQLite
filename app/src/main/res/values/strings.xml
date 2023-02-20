@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CrudSqLite</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="add_record">ADD RECORD</string>
+    <string name="all_the_insert_records">ALL THE INSERT RECORDS</string>
+    <string name="no_records">NO RECORDS</string>
+    <string name="edit_item">Edit_Item</string>
+    <string name="delete_item">Delete_Item</string>
+    <string name="update_records">UPDATE RECORDS</string>
+    <string name="update">UPDATE</string>
+    <string name="cancel">CANCEL</string>
+</resources>
